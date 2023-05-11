@@ -4,10 +4,10 @@ void main ()
 centígrados. Os limites são de 50 a 70 graus Fahrenheit com intervalo de 1 grau.
 Fórmula: C = 5/9 *(F -32)*/
 {
-    int i;
-    float celcius;
-    for (i=50; i<=70;i++){
-        celcius = (5.0 / 9.0) * (i - 32.0);
-        printf("%f\n", celcius);
+    float fah, cel;
+
+    for (fah = 50; fah <= 70; fah++){
+        cel = (5.0 / 9.0) * (fah - 32.0);
+        printf("%f\n", cel);
     }
 }
