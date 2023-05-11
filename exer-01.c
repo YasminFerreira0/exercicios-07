@@ -1,5 +1,6 @@
 #include <stdio.h>
 void main ()
+/*Construa um programa que leia dez números inteiros e identifique o maior número.*/
 {
     int i, maior, n;
 

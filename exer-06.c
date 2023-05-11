@@ -1,5 +1,8 @@
 #include <stdio.h>
 void main ()
+/*Faça um programa que leia um número inteiro positivo N. Calcule e mostre o maior
+quadrado menor ou igual a N. Por exemplo, se N for maior ou igual a 38, o menor quadrado
+é 36 (quadrado de 6).*/
 {
     int i, n;
 

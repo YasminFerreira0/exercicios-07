@@ -1,5 +1,7 @@
 #include <stdio.h>
 void main ()
+/*A série de Fibonacci é expressa da seguinte forma: 1, 1, 2, 3, 5, 8, 13, 21, 34, ... Faça um
+programa que calcule a série de Fibonacci, para N termos, onde N deve ser lido.*/
 {
     int i, n, termo_ant, ultimo_termo, aux;
 

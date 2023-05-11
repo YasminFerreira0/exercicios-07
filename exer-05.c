@@ -1,5 +1,6 @@
 #include <stdio.h>
 void main ()
+/*Construa um programa que receba um número inteiro e verifique se o mesmo é primo.*/
 {
     int n, primo, i;
     primo = 1;
